@@ -1,0 +1,28 @@
+# -----------------Stage 1: Build the application -----------------------------
+
+# using sdk image so that published artifacts can get all the dependencies in the build process that are necessary
+# for the application to run  but it is not included in the final image bcs sdk image is large in size and we use
+# runtime image only as you can see in step 2
+
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
+WORKDIR /app
+
+# Copy the project file and restore dependencies
+COPY *.csproj ./
+RUN dotnet restore --force  
+# <-- Forces a clean restore
+
+# Copy the rest of the application files and build the application
+COPY . ./
+RUN dotnet publish -c Release -o /publish --no-restore
+
+#--------------------------------- Stage 2: Run the application----------------------------------
+FROM mcr.microsoft.com/dotnet/aspnet:8.0
+# Set the workdir to publish to run the containerize application
+WORKDIR /publish
+
+# Copy the build output from the previous stage
+COPY --from=build /publish .
+
+# Set the entry point for the container
+ENTRYPOINT ["dotnet", "HelloWorldApi.dll"]

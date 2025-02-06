@@ -1,0 +1,32 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DockerExamples", "DockerExamples", "{FB6EF8C5-E67E-1295-93CA-1B8D53D5986A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Proj1", "Proj1", "{04C7641B-DE1A-DCD6-826E-C83EE586C71F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorldApi", "DockerExamples\Proj1\HelloWorldApi\HelloWorldApi.csproj", "{60C5B94A-F84D-3C21-18A4-9D08C55B4DDE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C5B94A-F84D-3C21-18A4-9D08C55B4DDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C5B94A-F84D-3C21-18A4-9D08C55B4DDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C5B94A-F84D-3C21-18A4-9D08C55B4DDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C5B94A-F84D-3C21-18A4-9D08C55B4DDE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{04C7641B-DE1A-DCD6-826E-C83EE586C71F} = {FB6EF8C5-E67E-1295-93CA-1B8D53D5986A}
+		{60C5B94A-F84D-3C21-18A4-9D08C55B4DDE} = {04C7641B-DE1A-DCD6-826E-C83EE586C71F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {03050272-ECE1-4653-8733-E0E3FE052444}
+	EndGlobalSection
+EndGlobal
