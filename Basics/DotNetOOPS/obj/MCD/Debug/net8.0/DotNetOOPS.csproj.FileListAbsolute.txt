@@ -1,0 +1,15 @@
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\bin\MCD\Debug\net8.0\DotNetOOPS.exe
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\bin\MCD\Debug\net8.0\DotNetOOPS.deps.json
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\bin\MCD\Debug\net8.0\DotNetOOPS.runtimeconfig.json
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\bin\MCD\Debug\net8.0\DotNetOOPS.dll
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\bin\MCD\Debug\net8.0\DotNetOOPS.pdb
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.GeneratedMSBuildEditorConfig.editorconfig
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.AssemblyInfoInputs.cache
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.AssemblyInfo.cs
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.csproj.CoreCompileInputs.cache
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.sourcelink.json
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.dll
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\refint\DotNetOOPS.dll
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.pdb
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\DotNetOOPS.genruntimeconfig.cache
+F:\CanProfPersonal\3.Projects\GitHub\DotNet\Basics\DotNetOOPS\obj\MCD\Debug\net8.0\ref\DotNetOOPS.dll

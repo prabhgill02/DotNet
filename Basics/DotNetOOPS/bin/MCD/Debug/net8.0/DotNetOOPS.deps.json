@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DotNetOOPS/1.0.0": {
+        "runtime": {
+          "DotNetOOPS.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetOOPS/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
